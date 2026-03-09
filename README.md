@@ -44,6 +44,7 @@
 核心表结构：
 - lifephilosophy / mental_health: 存储知识库内容。
 - ailearn3: 存储用户贡献的训练数据集。
+
 - presstable: 记录用户反馈及相关图片资源。
 
 ## 5.🚀 快速开始
