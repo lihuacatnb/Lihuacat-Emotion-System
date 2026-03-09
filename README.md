@@ -57,11 +57,11 @@
 
 ## 7.📦 项目展示
 ### （1）前台评估系统
-<img src="others/7-1.png">
+<img src="others/7-1.png" alt="show-1" width="400" height="830">
 <br>
-<img src="others/7-2.png">
+<img src="others/7-2.png" alt="show-1" width="400" height="830">
 <br>
-<img src="others/7-3.png">
+<img src="others/7-3.png" alt="show-1" width="400" height="830">
 
 ### （2）后台管理系统
 <img src="others/7-4.png">
