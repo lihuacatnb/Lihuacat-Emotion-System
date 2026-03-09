@@ -30,7 +30,7 @@ The system adopts a polyglot micro-services approach to leverage the strengths o
 - Database: MySQL 8.0.
 
 ### (5) LLM Support
-- Gemma LLM ().
+- Gemma LLM (Used for text translation).
 
 ## 3.✨ Key Features
 ### (1) Multimodal Assessment
