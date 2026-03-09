@@ -63,11 +63,11 @@
 <img src="others/7-2.png" width="350">
 
 ### （2）后台管理系统
-<img src="others/7-4.png" width="800">
+<img src="others/7-4.png" width="850">
 <br>
-<img src="others/7-5.png">
+<img src="others/7-5.png" width="850">
 <br>
-<img src="others/7-6.png">
+<img src="others/7-6.png" width="850">
 <br>
 
 ---
