@@ -58,7 +58,8 @@ Core table structure：
 - HBuilderX (for Uni-App compilation)
 
 ## 6.🎓 Developers
-Lihuacat AI
+- Lihuacat AI
+- Special thanks to Professor __Liu Shuyan__, Yanjing Institute of Technology
 
 ## 7.📦 Project Display
 The following are screenshots showcasing some of the features：  
