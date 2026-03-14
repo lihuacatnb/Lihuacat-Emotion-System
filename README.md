@@ -72,6 +72,12 @@
 <img src="others/7-6.png" width="850">
 <br>
 
+## 8.🔗 研发参考
+### （1）算法参考
+美团外卖评论文本情感分类
+### （2）前台 UI 
+使用了图鸟UI中的 **图鸟模板-圈子** 开源项目（[项目地址](https://ext.dcloud.net.cn/plugin?id=8503)）。
+
 ---
 
 <p align="center">⭐️ 如果你觉得有帮助，欢迎点个 Star 支持一下！ ⭐️</p>
