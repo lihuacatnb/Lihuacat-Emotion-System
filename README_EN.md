@@ -76,6 +76,15 @@ The following are screenshots showcasing some of the features：
 <img src="others/7-6.png" width="850">
 <br>
 
+## 8. 🔗 Research & Development References
+
+### (1) Algorithm Reference
+- Sentiment Analysis for Meituan Takeaway Reviews (Text Classification Model)
+
+### (2) Frontend UI
+- Utilized the Tuniao Template - Circle open-source project from **Tuniao UI** ([Project Link](https://ext.dcloud.net.cn/plugin?id=8503))
+<br>
+
 ---
 
 <p align="center">⭐️ If you find this helpful, feel free to give it a Star to show your support! ⭐️</p>
